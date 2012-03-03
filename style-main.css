@@ -1,0 +1,68 @@
+body{
+background-color: #21FFF0;
+}
+
+.header{
+text-align: center;
+}
+
+.date{
+border-bottom: 2px solid;
+}
+
+.completed{
+border:2px solid;
+border-radius:25px;
+box-shadow: 10px 10px 5px #888888;
+background-color: #21FF30;
+padding-left:50px;
+margin-left:auto;
+margin-right:auto;
+width: 25%;
+}
+
+.overdue{
+border:2px solid;
+border-radius:25px;
+box-shadow: 10px 10px 5px #888888;
+background-color: red;
+padding-left:50px;
+margin-left:auto;
+margin-right:auto;
+width:25%;
+}
+
+.today{
+border:2px solid;
+border-radius:25px;
+box-shadow: 10px 10px 5px #888888;
+background-color: blue;
+padding-left:50px;
+margin-left:auto;
+margin-right:auto;
+width:25%;
+}
+
+.soon{
+border:2px solid;
+border-radius:25px;
+box-shadow: 10px 10px 5px #888888;
+background-color: yellow;
+padding-left:50px;
+width: 250px;
+margin-left:auto;
+margin-right:auto;
+width:25%;
+}
+
+.dategroup{
+border:2px solid;
+border-radius:25px;
+box-shadow: 10px 10px 5px #888888;
+background-color: white;
+padding-left:50px;
+width: 250px;
+margin-left:auto;
+margin-right:auto;
+width:25%;
+}
